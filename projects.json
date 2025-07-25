@@ -2,7 +2,7 @@
   {
     "name": "Klabbelanja Web",
     "desc": "Memiliki kontribusi membangun dan memelihara API, deployment production, serta integrasi pihak ketiga (Raja Ongkir).",
-    "image": "KBI",
+    "image": "kbi",
     "category": "website",
     "links": {
       "view": "https://app.klabbelanja.com/"
@@ -11,7 +11,7 @@
   {
     "name": "Klabbelanja Apps",
     "desc": "Memiliki kontribusi membangun dan memelihara API, deployment production, serta integrasi pihak ketiga (Raja Ongkir).",
-    "image": "KBI",
+    "image": "kbi",
     "category": "apps",
     "links": {
       "view": "https://apps.apple.com/id/app/klabbelanja/id6475075475"
@@ -20,7 +20,7 @@
   {
     "name": "Admin Klabbelanja Web",
     "desc": "Berkontribusi dalam membangun UI &  UX, intregasi UI dengan API, memelihara API, serta deployment production.",
-    "image": "KBI",
+    "image": "kbi",
     "category": "website",
     "links": {
       "view": "https://master.klabbelanja.com/"
