@@ -93,7 +93,7 @@ function showProjects(projects) {
     projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}" alt="project" />
+      <img draggable="false" src="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1753450847/cqcjowg3lrabgak02svi.jpg" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
